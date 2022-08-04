@@ -3,7 +3,7 @@
 	"displayName": "Custom view Samples",
 	"description": "Samples for VSCode's view API",
 	"version": "0.0.1",
-	"publisher": "vscode-samples",
+	"publisher": "msujew",
 	"private": true,
 	"license": "MIT",
 	"repository": {
